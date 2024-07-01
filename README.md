@@ -1,4 +1,4 @@
-# Blogger-Posting-Support-Ai
+# Blogspot Posting Support Ai
 Note: I just tested in the Visual Studio Code for those who want to try on another platform, please develop again
 1. open this [https://developers.google.com/blogger/docs/3.0/using](https://developers.google.com/blogger/docs/3.0/using)
 2. Get an OAuth client ID
