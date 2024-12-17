@@ -1,6 +1,6 @@
 # **Blogger AI Posting Script**
 
-Script Python ini digunakan untuk **mengotomatisasi posting artikel ke Blogger** dengan bantuan **AI Generative (Gemini)**. Data seperti token, ID Blogger, dan prompt disimpan dalam file `settings.json` agar mudah diubah.
+Script Python ini digunakan untuk *Membuat posting artikel ke Blogger** dengan bantuan **AI Generative (Gemini)**. Data seperti token, ID Blogger, dan prompt disimpan dalam file `settings.json` agar mudah diubah.
 
 ---
 
